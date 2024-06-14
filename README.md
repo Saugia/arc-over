@@ -1,4 +1,4 @@
-# Arc-Over
+# Arc Over
 This repository is for the Endless Sky plug-in "Arc Over". This plug-in is in early development, expect additions and changes in the future.
 
 ## About
