@@ -1,0 +1,68 @@
+# Copyright (c) 2024 by Saugia
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE. See the GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License along with
+# this program. If not, see <https://www.gnu.org/licenses/>.
+
+
+Arcs are determined both by the 3d model of the ship and gameplayability of the turrets in-game. As there can only be one defined arc (i.e., from angle A to angle B), not all model structures are accounted for. For example, if a turret was blocked from both front and back - this would require two definitions, one for the left and one for the right. In other cases, a fin may be the only blocking sight, compared to notable ship structure. 
+
+Exceptions have been made for the case above, for less exaggerative model details, and for cases where no turret arc is necessary.
+
+
+BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF).
+
+
+* HUMAN SHIPS
+
+	* AUXILIARY - The Auxiliary has three different models for its variants.
+		* Base
+			- First and second turrets take account of the fin between them, and reside on a taller section.
+			- Third and fourth turrets are on an overall lower structure, and take account of the taller structure in front of them (but cannot do the same for the rear). As a result, these turrets are more rear-friendly.
+		
+		* Cargo
+			- Based fully on the overall lower structure. All four turrets take account of the larger rear section this time.
+
+		* Transport
+			- Based on the taller structure. Uses the same logic as the first two turrets of the base variant.
+	
+	* BARB - The Barb has not been given limited arcs as the structure is not significantly obstructive. This also helps it be more flexible and strong as a fighter with a turret compared to mid-large ships with more limited arcing.
+	
+	* BLACKBIRD - The Blackbird has massive fins on the model and since we can't define more than one arc, the arcs are more permissive, not taking account of the outer fins as visual obstruction.
+	
+	* CARRIER - The angled wings of the Carrier model make arcing based on visual obstruction difficult, so the turret arcs prioritize the main body and rear instead.
+	
+	* CONTAINER TRANSPORT - The Container Transport has not been given limited arcs as the structure is not significantly obstructive.
+	
+	* CORVETTE - The Corvette has not been given limited arcs as the structure is not significantly obstructive. This gives it a benefit as a faster mid-sized ship compared to others with more space and weaponry (and limited angles).
+	
+	* DREADNOUGHT - Though the Dreadnought's rails are obstructive, it has been given some leeway, partly due to not being able to have more than one arc defined, and partly so it has an advantage/does not have a disadvantage compared to the Cruiser and other Navy ships.
+	
+	* ENFORCER - The Enforcer has not been given limited arcs as the structure is not obstructive.
+	
+	* FALCON - The Falcon's outer fins could possibly be obstruction, but have been discounted for the time being. Possible pending on balance differences with the Leviathan.
+	
+	* FREIGHTER - The middle turret is between two fins, so it would require multiple arcs. Instead, it's not been given arcs. Partly due to the Freighter being a cargo and early game ship, and also due to the other two mounts being more limited.
+	
+	* HAULER SHIPS (Including Carriers)- The rear turrets on Hauler ships are somewhat obstructed, but have not been given turret arcs. This helps the Hauler as a slow cargo ship with a more defensive rear section compared to other ships.
+
+	* OSPREY - The Osprey's wings may give a slight obstruction, however the turret mounts were not given limited arcs. Like the Corvette, this gives it an advantage as a speedier less-armed mid-sized ship.
+	
+	* PROTECTOR - The two fins in the middle of the Protector are the only real obstruction and are relatively small compared to most other cases. The Protector has not been given any limited arcs for now, giving it a huge advantage over other larger ships with limited arcs, however it itself is very slow, and this is appropriate with its role. May change based on balance results with other ships.
+	
+	* SUNDER - The Sunder has not been given limited arcs as the structure is not obstructive. This gives it an advantage over other freight ships of similar sizes.
+
+	* VANGUARD - The Vanguard has not been given limited arcs as the structure is not obstructive. This gives its turret more of an advantage over other large ships that have limited turret arcs, though it is still a gun-focused ship.
+
+	* MARAUDER MANTA - The Marauder Manta's turret is blind to the rear half to not give it a huge advantage over other ships at this size/capacity, and takes into account the model. However, if it poses little issue, this may be lifted in the future to be unrestricted, giving it a bit of a cushion as a weaker mid-sized ship.
+	
+	* MARAUDER QUICKSILVER - The Marauder Quicksilver has not been given limited arcs as the structure is not obstructive.
+	
+	* MARAUDER RAVEN - The Marauder Raven has not been given limited arcs as the structure is not significantly obstructive, also giving it a bit of a cushion as a weaker mid-sized ship.
