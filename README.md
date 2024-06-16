@@ -1,4 +1,7 @@
 # Arc Over
+
+![arcover-h](https://github.com/Saugia/arc-over/assets/93169396/ce10ff31-532b-43ce-930b-d6d5d3ea30e3)
+
 This repository is for the Endless Sky plug-in "Arc Over". This plug-in is in early development, expect additions and changes in the future.
 
 ## About
