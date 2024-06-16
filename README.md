@@ -5,7 +5,7 @@
 This repository is for the Endless Sky plug-in "Arc Over". This plug-in is in early development, expect additions and changes in the future.
 
 ## About
-Arc Over gives limited angles to turret mounts on vanilla ships, adding another balance aspect to combat gameplay. These arcs are determined by a few factors, and are given exceptions in some cases, some being more lentient than others, and others being no limits at all. For detailed information, see the arc notes.txt file in the data folder for general concept and specific choices for each faction.
+Arc Over gives limited angles to turret mounts on vanilla ships, adding another balance aspect to combat gameplay. These arcs are determined by a few factors, and are given exceptions in some cases, some being more lenient than others, and others being no limits at all. For detailed information, see the arc notes.txt file in the data folder for general concept and specific choices for each faction.
 
 *Note*: This plug-in currently only includes human ships. More to come in the future.
 
