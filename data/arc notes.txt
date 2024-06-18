@@ -73,7 +73,7 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 
 	* RANO'EREK - While limits have been given based on the Ran'erek's bulk, the rear turrets have not been given arc limits because they are high up and have open views. This setup means the ship is more well-defended in the rear, consistent with its utility aspect.
 	
-	* PALAVRET - Unlike the Rano'erek, the front turrets are well in the open. The rear turrets also hold centrality. Therefore, the Palavret has not been given any turret arc limits, but the rear turet mount may be considered.
+	* PALAVRET - Unlike the Rano'erek, the front turrets are well in the open. The rear turrets also hold centrality. Therefore, the Palavret has not been given any turret arc limits, but the rear turret mount may be reconsidered.
 	
 	* 'NRA'RET - The 'nra'ret has not been given limited arcs as the structure is not obstructive.
 	
@@ -86,9 +86,9 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 		* IKFAR A'AWOJ - The Ikfar has good frontal turret angles and has a turret without limits, making it pretty strong in some aspects, though it doesn't have as much forward firepower as the Sapira (the battleship variant). Will keep an eye on these two.
 		* KASICHARA A'AWOJ - The Kasichara has decent general angles compared to others.
 		
-	* KORSMANATH - The Korsmanath has a combination of varying angles, shared angles, and turrets without limited angles, the main importance being that it has a semblence of left and right arcs now with this plug-in's aspects, which is impactful to the ship with the most turrets in the game.
+	* KORSMANATH A'AWOJ - The Korsmanath has a combination of varying angles, shared angles, and turrets without limited angles, the main importance being that it has a semblence of left and right arcs now with this plug-in's aspects, which is impactful to the ship with the most turrets in the game.
 
-	* ECHO-GALLEON - The Echo Galleon's first three turrets rise above the rest of its structure, and haven't been given any limited arcs, meanwhile the rear turrets do have limits based on the surrounding structure.
+	* ECHO-GALLEON - The Echo Galleon's first three turrets rise above the rest of its structure, and haven't been given any limited arcs. Meanwhile the rear turrets do have limits based on the surrounding structure.
 	
 	* ARCH-CARRACK - While the middle turret of the Arch-Carrack is somewhat lower than its surroundings, it's been given an exception and no limited arc as it's not significant enough and would require multiple limits.
 	
@@ -102,7 +102,7 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 	
 	* MET PAR TEK - The Met shares the same turret structures as the KIV (the six forward turrets), so it currently shares the same limited arcs (unlike the carriers). For a ship its size, 6 turrets is decently strong, so the blindspot given in the rear by this offsets this pocket warship.
 	
-	* MODEL SHIPS - Each model ship has drastic structural obstruction and oddly-angled turret mounts (the modeled bases themselves), so a lot of soft exceptions and some decent ones have been given from ship to ship. Overall, the Model series has less forward-firing turrets (as opposed to their vanilla all turrets forward), with more arcs around the ships in varied angles. Will be keeping an eye on this, especially with ship balance vs. the Sestor ships, but in initial tests there doesn't seem to be a huge scale shift as of yet.
+	* MODEL # SHIPS - Each model ship has drastic structural obstruction and oddly-angled turret mounts (the modeled bases themselves), so a lot of soft exceptions and some decent ones have been given from ship to ship. Overall, the Model series has less forward-firing turrets (as opposed to their vanilla all turrets forward), with more arcs around the ships in varied angles. Will be keeping an eye on this, especially with ship balance vs. the Sestor ships, but in initial tests there doesn't seem to be a huge scale shift as of yet.
 
 
 
@@ -118,7 +118,7 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 	
 	* VIOLIN SPIDER - The Violin Spider has not been given limited arcs as the structure is not obstructive.
 	
-	* WATER BUG - Although it has a generally flat surface, the Water Bug has still been given a blind spot to the rear for its turrets for balance reasons.
+	* WATER BUG - Although it has a generally flat surface, the Water Bug has still been given a blind spot to the rear for balance reasons.
 
 
 
@@ -128,7 +128,7 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 	
 	* AUTUMN LEAF - The Autumn Leaf has not been given limited arcs as the structure is not obstructive.
 	
-	* TEMPEST - The fins near the front turret on the Tempest would slightly obstructed it, however it has been given exception and does not have limited arcs, since the rear turrets do and are deeper in the ship's structure.
+	* TEMPEST - The fins near the front turret on the Tempest would have slightly obstructed it, however it has been given exception and does not have limited arcs, since the rear turrets do and are deeper in the ship's structure.
 	
 	* HURRICANE - The top three turrets on the Hurricane (middle and rear two) have not been given limited arcs despite a small amount of obstruction. This is to help aside its slow speed and to accompany its power as a Wanderer heavy warship. Will be keeping an eye on this.
 	
@@ -138,14 +138,14 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 
 # QUARG SHIPS
 
-	* SKYLARK - Though perhaps odd as the projectile sprite appears over the tall spires on the Skylark, the front two turret locations don't have obstructions for 180 degrees one either side. As for the rear two, they are on top of the spires, so they do not have obstructions and therefore no limits.
+	* SKYLARK - Though perhaps odd as the projectile sprite appears over the tall spires on the Skylark, the front two turret locations don't have obstructions for 180 degrees, one on either side. As for the rear two, they are on top of the spires, so they do not have obstructions and therefore no limits.
 	
-	* WARDRAGON -  Similar to the Skylark, the two outer turrets have some open space under a tallker structure but the projectile sprite would appear over them. Nevertheless, limited arcs are used.
+	* WARDRAGON -  Similar to the Skylark, the two outer turrets have some open space under a taller structure but the projectile sprite would appear over them. Nevertheless, limited arcs are used.
 
 
 
 # PUG SHIPS
 	
-	* MARBORO - Due to the Marboro's extravagant structure, the second and third turrets are directly behind obstruction. They've beeng given exception to fire past it as if they were higher, but still have limited arcs towards the rear end.
+	* MABORO - Due to the Maboro's extravagant structure, the second and third turrets are directly behind obstructions. They've been given exceptions to fire past it as if they were higher, but still have limited arcs towards the rear end.
 	
 	* ARFECTA - The Arfecta has a grandoise structure. There could be many limitations or few to have with it, but considering the nature of the ship and its weapons, I've elected to not give it any limited turret arcs. All hail the Arfecta's omniscence.
