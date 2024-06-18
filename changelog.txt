@@ -22,3 +22,13 @@ Initial Release of Arc Over.
 	* Ships
 		* Human
 			* Adds limited turret arcs to human ships, including the Kestrel and marauder variants. Does NOT include pirate variants or person ships.
+
+
+------------------------------------------
+### Version: 0.2 (6/17/2024)
+------------------------------------------
+
+* Changelog
+	* Ships
+		* Adds limited turret arcs for Hai, Korath, Wanderer, Quarg, and Pug ships. Does NOT include person ships or ships not currently enabled or used in vanilla content.
+
