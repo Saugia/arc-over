@@ -149,3 +149,64 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 	* MABORO - Due to the Maboro's extravagant structure, the second and third turrets are directly behind obstructions. They've been given exceptions to fire past it as if they were higher, but still have limited arcs towards the rear end.
 	
 	* ARFECTA - The Arfecta has a grandoise structure. There could be many limitations or few to have with it, but considering the nature of the ship and its weapons, I've elected to not give it any limited turret arcs. All hail the Arfecta's omniscence.
+
+
+
+* DRAK SHIPS - The Drak will not be getting turret arcs. All hail the gods of the galaxy.
+
+
+
+* REMNANT SHIPS
+
+	* ALBATROSS - The front turrets on the Albatross are at the level of the hull, so they don't have slight degrees toward the center but stop straight-forward. The rear turrets are on elevated wings, so they have arcs that go over the center hull but not to the rear. The rear turret has been given an exception and does not have an arc despite the wings as it would otherwise require two arc limits but would have a large operative area.
+	
+	* GULL - The Gull has not been given limited arcs as the structure is not obstructive.
+	
+	* IBIS - The Ibis's wings split the front two turrets and rear turret's arcs up a bit. The first two arc to the wings themselves, meanwhile the rear turret has been given a rear-only focus. As a carrier, thie Ibis relies more on its fighters (and it also has guns), so the rear-specific turret shouldn't hurt it, and give it a niche in rear defense.
+		
+	* MERGANSER - The Merganser has not been given limited arcs as the structure is not obstructive.
+	
+	* PENGUIN - The Penguin has not been given limited arcs as the structure is not obstructive.
+	
+	* PEREGRINE - The Peregrine has not been given limited arcs as the structure is not obstructive. However, this may be a balance concern as this ship is already very powerful. It could get arcs that still visually work with the top-down design in the future if necessary.
+	
+	* PETREL - The Petrel has not been given limited arcs as the structure is not obstructive.
+	
+	* STARLING - The Starling has not been given limited arcs as the structure is not obstructive.
+
+
+
+* KA'HET - Ka'het ships have good turret placement, so there may be changes later based on balance concerns.
+
+	* MAERI'HET - The Maeri'het's turrets are on top of its hull and would generally have no arcs, but for balance purposes, they've been given 180 degree arcs based on their sides.
+	
+	* TELIS'HET - The Telis'het's turrets are around the more bulky nose and have similar limits to the Maeri. However, the top turret has not been given a limited arc as it is above any structure.
+	
+	* VARETI'HET - Like the Maeri, the Vareti's turrets are on the top and would generally have no arcs, but for balance purposes have 180 degree arcs based on sides.
+
+
+
+* COALITION - Due to the varying structural heights, lengths, etc., in Coalition ships, arcs may differ from ship to ship even within the same design group.
+
+	* ARACH FREIGHTER - The Arach Freighter has a very bulbous middle section, with the turret platforms being on the sides. Unlike other ships with simple arcs, these don't have a slight offset to the forward or rear 0 points, but are direct 180 degree arcs.
+	
+	* ARACH HULK - The side turrets on the Hulk retain a similar reasoning and implementation of 180 degree angles like the Freighter, meanwhile the first and last turret have not been given limits as the stucture near them is not significantly obstructive.
+
+	* ARACH SPINDLE - The Spindle shares the same first and last turrets on the HUlk, therefore for the same reasoning doesn't have any limited arcs.
+	
+	* HELIARCH BREACHER - The Heliarch Breacher has not been given limited arcs as the structure is not obstructive.
+	awefawefaesfsdvfaergerg
+	* HELIARCH HUNTER - The Heliarch Hunter has not been given limited arcs as the structure is not obstructive.
+	
+	* HELIARCH JUDICATOR - The Heliarch Judicator has not been given limited arcs as the structure is not obstructive.
+	
+	* HELIARCH PUNISHER - The front three turrets of the Punisher have been given arcs taking into account the structure behind them and also have been limited for balance purposes, but the fourth rear turret has not been given an arc.
+
+	* HELIARCH STALKER - The Heliarch Stalker has not been given limited arcs as the structure is not obstructive.
+	
+	* KIMEK SPIRE - The first and second turrets on the Kimek Spire have basic limits, but the rear ones are blocked by some foward structure and are a bit more odd. Their limits are slightly skewed from straightforward, so the ship cannot fire them both at a forward target (unless it is big). This limit seems acceptable for a civilian ship, but may be given a soft exception in the future for balance reasoning to have direct forward firing.
+	
+	* SARYD SOJOURNER - The turret mount setup around the forward struture of the Sojourner sees that the side ones cannot turn past the center section, and the middle one is a bit higher, so it shares both limits towards the rear. Meanwhile. the rear turret has obstructuve structure forward and has a blindspot there, making it more rear-focused, seemingly appropriate for a civilian ship.
+	
+	* SARYD VISITOR - The single turret location is lower into the Visitor's stucuture, and would require having small forward and rear arcs. Instead, it hasn't been given an arc limit, giving it a comfortable turret mount for a ship its size, which is an acceptable balance.
+	
