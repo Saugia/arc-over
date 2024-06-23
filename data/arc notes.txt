@@ -208,5 +208,5 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 	
 	* SARYD SOJOURNER - The turret mount setup around the forward struture of the Sojourner sees that the side ones cannot turn past the center section, and the middle one is a bit higher, so it shares both limits towards the rear. Meanwhile. the rear turret has obstructuve structure forward and has a blindspot there, making it more rear-focused, seemingly appropriate for a civilian ship.
 	
-	* SARYD VISITOR - The single turret location is lower into the Visitor's strucuture, and would require having small forward and rear arcs. Instead, it hasn't been given an arc limit, giving it a comfortable turret mount for a ship its size, which is an acceptable balance.
+	* SARYD VISITOR - The single turret location is lower into the Visitor's structure, and would require having small forward and rear arcs. Instead, it hasn't been given an arc limit, giving it a comfortable turret mount for a ship its size, which is an acceptable balance.
 	
