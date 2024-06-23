@@ -162,7 +162,7 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 	
 	* GULL - The Gull has not been given limited arcs as the structure is not obstructive.
 	
-	* IBIS - The Ibis's wings split the front two turrets and rear turret's arcs up a bit. The first two arc to the wings themselves, meanwhile the rear turret has been given a rear-only focus. As a carrier, thie Ibis relies more on its fighters (and it also has guns), so the rear-specific turret shouldn't hurt it, and give it a niche in rear defense.
+	* IBIS - The Ibis's wings split the front two turrets and rear turret's arcs up a bit. The first two arc to the wings themselves, meanwhile the rear turret has been given a rear-only focus. As a carrier, the Ibis relies more on its fighters (and it also has guns), so the rear-specific turret shouldn't hurt it, and give it a niche in rear defense.
 		
 	* MERGANSER - The Merganser has not been given limited arcs as the structure is not obstructive.
 	
@@ -188,14 +188,14 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 
 * COALITION - Due to the varying structural heights, lengths, etc., in Coalition ships, arcs may differ from ship to ship even within the same design group.
 
-	* ARACH FREIGHTER - The Arach Freighter has a very bulbous middle section, with the turret platforms being on the sides. Unlike other ships with simple arcs, these don't have a slight offset to the forward or rear 0 points, but are direct 180 degree arcs.
+	* ARACH FREIGHTER - The Arach Freighter has a very bulbous middle section, with the turret platforms being on the sides. Unlike other ships with simple arcs, these don't have a slight offset to the forward or rear points, but are direct 180 degree arcs.
 	
-	* ARACH HULK - The side turrets on the Hulk retain a similar reasoning and implementation of 180 degree angles like the Freighter, meanwhile the first and last turret have not been given limits as the stucture near them is not significantly obstructive.
+	* ARACH HULK - The side turrets on the Hulk retain a similar reasoning and implementation of 180 degree angles like the Freighter. Meanwhile the first and last turret have not been given limits as the stucture near them is not significantly obstructive.
 
-	* ARACH SPINDLE - The Spindle shares the same first and last turrets on the HUlk, therefore for the same reasoning doesn't have any limited arcs.
+	* ARACH SPINDLE - The Spindle shares the same first and last turrets on the Hulk, therefore for the same reasoning it doesn't have any limited arcs.
 	
 	* HELIARCH BREACHER - The Heliarch Breacher has not been given limited arcs as the structure is not obstructive.
-	awefawefaesfsdvfaergerg
+
 	* HELIARCH HUNTER - The Heliarch Hunter has not been given limited arcs as the structure is not obstructive.
 	
 	* HELIARCH JUDICATOR - The Heliarch Judicator has not been given limited arcs as the structure is not obstructive.
@@ -208,5 +208,5 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 	
 	* SARYD SOJOURNER - The turret mount setup around the forward struture of the Sojourner sees that the side ones cannot turn past the center section, and the middle one is a bit higher, so it shares both limits towards the rear. Meanwhile. the rear turret has obstructuve structure forward and has a blindspot there, making it more rear-focused, seemingly appropriate for a civilian ship.
 	
-	* SARYD VISITOR - The single turret location is lower into the Visitor's stucuture, and would require having small forward and rear arcs. Instead, it hasn't been given an arc limit, giving it a comfortable turret mount for a ship its size, which is an acceptable balance.
+	* SARYD VISITOR - The single turret location is lower into the Visitor's structure, and would require having small forward and rear arcs. Instead, it hasn't been given an arc limit, giving it a comfortable turret mount for a ship its size, which is an acceptable balance.
 	
