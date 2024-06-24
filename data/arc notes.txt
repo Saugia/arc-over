@@ -210,3 +210,46 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 	
 	* SARYD VISITOR - The single turret location is lower into the Visitor's structure, and would require having small forward and rear arcs. Instead, it hasn't been given an arc limit, giving it a comfortable turret mount for a ship its size, which is an acceptable balance.
 	
+
+
+* SHERAGI SHIPS
+
+	* EMERALD SWORD - Most turrets on the Emerald Sword have been given limited arcs, but the highest one has not been as there are no obstructions.
+
+
+
+* BUNRODEA SHIPS
+
+	* SASUMATA - The Sasumata's turrets are on the very top, and although are on slightly slanted structure, have not been given limited arcs as the structure is not significantly obstructive.
+	
+	* TANTO - The Tanto has not been given limited arcs as the structure is not obstructive.
+	
+	* ARAREBO - The forward turret on the Ararebo is on a lower structural deck than the others, and has been given a rear blindspot. The other three turrets are on the top of the ship and unobstructed, and have not been given limits.
+	
+	* TEKKAN - The Tekkan's structure and turret locations are a bit odd; the front one is on a lower platform. For the time being, it's been given a forward-focused limit due to the structure obstructions surrounding it, but may be given a soft exception in the future. The side turrets are obstructed by the body and have been given limits around 180 degrees on the sides.
+	
+	* KAMA - The Kama has not been given limited arcs as the structure is not obstructive.
+
+
+
+* GEGNO SHIPS
+
+	* DUNITE - The Dunite has a strange turret workaround for its melee weapon; in order to work efficiently, it hasn't been given a turret arc.
+	
+	* GNEISS - The structure surrounding the turret mounts on the Gneiss could be given many different limited arcs, especially if considering soft or no exceptions. Rather than make very specific limits, they have been given some general limits. This might be revisited in the future.
+	
+	* FELDSPAR - Normally, the Feldspar's turrets could be considered obstructionless due to their height above all else, but the angle at which the hull is at technically would limit a full rotation. They have been given this limitation, also as to not have a powerful limitless weapon operation, since despite having two turrets, the ship's strength is bombardment from afar. This shouldn't hurt this purpose as it is meant to fire mostly from the front.
+
+	* EPIDOTE - The second and third turrets have not been given limited turret arcs as they are not obstructed, unlike the lower-positioned first turet.
+
+
+
+* RULEI SHIPS
+	
+	* The Rulei will not be getting turret arcs. Their weapon mounts would defy structural restriction, should any even exist.
+
+
+
+* SPACE LIFE
+
+	* Similarly to the Gegno Dunite's special-case melee weapon, space life weapons that use turrets as offensive means do so outside of the influence of structural obstruction, and therefore have not been given limited arcs.
