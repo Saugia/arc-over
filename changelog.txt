@@ -40,3 +40,11 @@ Initial Release of Arc Over.
 	* Ships
 		* Adds limited turret arcs for Remnant, Ka'het and Coalition ships. Does NOT include person ships or ships not currently enabled or used in vanilla content.
 
+------------------------------------------
+### Version: 0.4
+------------------------------------------
+
+* Changelog
+	* Ships
+		* Adds limited turret arcs for Sheragi, Bunrodea and Gegno ships. Does NOT include person ships or ships not currently enabled or used in vanilla content.
+
