@@ -220,7 +220,7 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 
 * BUNRODEA SHIPS
 
-	* SASUMATA - The Sasumata's turrets are on the very top, and although are on slightly slanted structure, have not been given limited arcs as the structure is not significantly obstructive.
+	* SASUMATA - The Sasumata's turrets are on the very top, and although are on a slightly slanted structure, have not been given limited arcs as the structure is not significantly obstructive.
 	
 	* TANTO - The Tanto has not been given limited arcs as the structure is not obstructive.
 	
@@ -238,7 +238,7 @@ BELOW ARE NOTABLE CHOICES FOR LIMITED ARCS (OR LACK THEREOF). Unless otherwise s
 	
 	* GNEISS - The structure surrounding the turret mounts on the Gneiss could be given many different limited arcs, especially if considering soft or no exceptions. Rather than make very specific limits, they have been given some general limits. This might be revisited in the future.
 	
-	* FELDSPAR - Normally, the Feldspar's turrets could be considered obstructionless due to their height above all else, but the angle at which the hull is at technically would limit a full rotation. They have been given this limitation, also as to not have a powerful limitless weapon operation, since despite having two turrets, the ship's strength is bombardment from afar. This shouldn't hurt this purpose as it is meant to fire mostly from the front.
+	* FELDSPAR - Normally, the Feldspar's turrets could be considered obstructionless due to their height above all else, but the angle at which the hull is at technically would limit a full rotation. They have been given this limitation, also as to not have a powerful limitless weapon operation, since despite having two turrets, the ship's strength is bombardment from afar. This shouldn't hurt its purpose as it is meant to fire mostly from the front.
 
 	* EPIDOTE - The second and third turrets have not been given limited turret arcs as they are not obstructed, unlike the lower-positioned first turet.
 
